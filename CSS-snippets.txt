@@ -1,0 +1,3 @@
+/* Background for colored sections   */
+
+background-image: linear-gradient(to right, #845ec2, #d55cab, #ff6f88, #ff9868, #ffc75f, #fccb00);
